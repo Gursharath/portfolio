@@ -381,12 +381,12 @@ export const projects = [
     title: "Portfolio website",
     date: "JUL 2025",
     description:
-      "Modern, responsive developer portfolio built using React.js. Showcases projects, skills, and experience with smooth animations, dark/light themes, and section-based navigation. Designed with custom CSS and deployed on Netlify for fast, global access..",
+      "Modern, responsive developer portfolio built using React.js. Showcases projects, skills, and experience with smooth animations, dark/light themes, and section-based navigation. Designed with custom CSS and deployed on Netlify for fast, global access.",
     image:
-      "https://github.com/Gursharath/WasteClassificationFrontend/blob/main/assets/images/app_logo.png?raw=true",
+      "https://github.com/Gursharath/portfolio/blob/main/image/Screenshot%202025-07-29%20160152.png?raw=true",
     tags: ["HTML", "CSS", "JavaScript", "React", "Bootstrap", "Figma"],
     category: "web app",
-    github: "https://github.com/Gursharath/WasteClassificationFrontend",
+    github: "https://github.com/Gursharath/portfolio",
     webapp: "",
   },
 ];
